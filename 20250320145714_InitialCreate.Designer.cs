@@ -15,7 +15,7 @@ namespace HotelSystem.Migrations
     [Migration("20250320145714_InitialCreate")]
     partial class InitialCreate
     {
-        /// <inheritdoc />
+        
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
