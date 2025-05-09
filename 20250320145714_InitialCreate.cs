@@ -81,7 +81,7 @@ namespace HotelSystem.Migrations
                 column: "RoomId");
         }
 
-        /// <inheritdoc />
+        
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
